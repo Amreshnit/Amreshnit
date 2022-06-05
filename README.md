@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Amresh Kumar</h1>
 <h3 align="center">A self motivated, enthusiastic, honest, good learner and having never give up attitude.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepkumar75&label=Profile%20views&color=0e75b6&style=flat" alt="amresh09" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amreshnit&label=Profile%20views&color=0e75b6&style=flat" alt="amresh09" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/Amreshnit" alt="amresh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amreshnit" alt="amreshnit" /></a> </p>
 
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
 
