@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/amresh-kumar-467069183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="san-deep-kumar" height="30" width="40" /></a>
-<a href="https://leetcode.com/amresh822/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="san_deep_gupta" height="30" width="40" /></a>
+<a href="https://leetcode.com/amreshnit_jsr09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amresh_kumar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kumaramresh594/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amreshnit" height="30" width="40" /></a>
 </p>
 
