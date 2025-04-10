@@ -1,48 +1,74 @@
-<img height="202.4" width="1012" alt="Github Streak" src="https://media-fastly.hackerearth.com/media/hackathon/sept-circuits-21/images/3a04cef80f-September-Circuits.gif" data-canonical-src=" " style="max-width:100%;">
-
 <h1 align="center">Hi 👋, I'm Amresh Kumar</h1>
-<h3 align="center">A self motivated, enthusiastic, honest, good learner and having never give up attitude.</h3>
+<h3 align="center">A self-motivated, enthusiastic, honest learner with a never-give-up attitude 💪</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amreshnit&label=Profile%20views&color=0e75b6&style=flat" alt="amresh09" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amreshnit" alt="amreshnit" /></a> </p>
-
-<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
-
-
-🔭 I’m currently working on **Mern stack**
-
-
-- ⌨️ I’m currently working on **coding skills** .<p> <img align="center" alt="coding from home" src= "https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height = 250 width = 300/></p>
-
-
-- 🌱 I’m working on improving **Problem Solving skills**
-
-- 🖥️ I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
-
-- 📫 How to reach me **amreshnitjsr09@gmail.com**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/amresh-kumar-467069183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="san-deep-kumar" height="30" width="40" /></a>
-<a href="https://leetcode.com/amreshnit_jsr09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amresh_kumar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kumaramresh594/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amreshnit" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media-fastly.hackerearth.com/media/hackathon/sept-circuits-21/images/3a04cef80f-September-Circuits.gif" alt="Github Streak" width="600">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=amreshnit&label=Profile%20views&color=0e75b6&style=flat" alt="amreshnit" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amreshnit&show_icons=true&locale=en&layout=compact" alt="amreshnit" /></p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=amreshnit&theme=dracula" alt="amreshnit" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amreshnit&show_icons=true&locale=en" alt="amreshnit" /></p>
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amreshnit&" alt="amreshnit" /></p>
+### 🧠 About Me
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+- 🔭 I’m currently working on **MERN Stack**  
+- ⌨️ I’m improving my **coding skills** daily  
+- 🚀 Always eager to learn and grow  
+- 🤝 I love collaborating and sharing knowledge  
+- 🧩 Problem solver with a logical mindset  
+- 🌐 Open to contributions, networking, and opportunities
 
-## 😎Snake Enjoying Contributions
-## <img src="https://github.com/RishuRajan/RishuRajan/blob/master/Rishu_Rajan_Contribution_2021.svg" width="1000px">
+---
 
+### 🛠️ Languages and Tools
 
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=fff&style=for-the-badge" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amreshnit&show_icons=true&theme=radical" alt="Amresh's GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amreshnit&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amreshnit&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🔗 Let's Connect!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/amreshnit/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/amreshnit" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:amreshnit@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/amreshnit" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
