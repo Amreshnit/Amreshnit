@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amresh Kumar</h1>
-<h3 align="center">A self-motivated, enthusiastic, honest learner with a never-give-up attitude 💪</h3>
+<h3 align="center">A passionate Java Backend Developer with a love for clean code, continuous learning, and solving real-world problems.</h3>
 
 <p align="center">
   <img src="https://media-fastly.hackerearth.com/media/hackathon/sept-circuits-21/images/3a04cef80f-September-Circuits.gif" alt="Github Streak" width="600">
@@ -19,56 +19,36 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **MERN Stack**  
-- ⌨️ I’m improving my **coding skills** daily  
-- 🚀 Always eager to learn and grow  
-- 🤝 I love collaborating and sharing knowledge  
-- 🧩 Problem solver with a logical mindset  
-- 🌐 Open to contributions, networking, and opportunities
+- 💼 I'm currently working as a **Java Spring Boot Backend Developer**  
+- 🧑‍💻 **Internship:** Jan 2023 – Jun 2023  
+- 👨‍💻 **Full-time:** Jun 2023 – Present  
+- 🔧 Working on building scalable RESTful APIs, database design, and backend architecture  
+- 🌱 Always learning new concepts in backend development, microservices, and system design  
+- 🚀 Passionate about clean code, performance optimization, and problem-solving  
+- 💬 Let's connect and talk about Java, backend architecture, or just tech in general!
 
 ---
 
-### 🛠️ Languages and Tools
+### 🚀 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=fff&style=for-the-badge" />
-</p>
+- 💻 Java, Spring Boot, REST API
+- 🛢️ MySQL, PostgreSQL, MongoDB
+- ☁️ Git, GitHub, Postman
+- 🔧 IntelliJ IDEA, VS Code
+- 🖥️ Linux (Ubuntu), Windows
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amreshnit&show_icons=true&theme=radical" alt="Amresh's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amreshnit&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amreshnit&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amreshnit&show_icons=true&theme=radical" alt="amreshnit stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amreshnit&theme=radical" alt="amreshnit streak" />
 </p>
 
 ---
 
-### 🔗 Let's Connect!
+### 📫 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/amreshnit/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://twitter.com/amreshnit" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:amreshnit@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/amreshnit" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+- LinkedIn: [linkedin.com/in/amreshnit](https://www.linkedin.com/in/amresh-kumar-467069183/)
+- GitHub: [github.com/amreshnit](https://github.com/amreshnit)
